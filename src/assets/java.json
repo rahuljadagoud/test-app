@@ -1,0 +1,141 @@
+
+{
+    "questions": [{
+            "questionText": "Which of the following option leads to the portability and security of Java?",
+            "options": [{
+                    "text": "Bytecode is executed by JVM",
+                    "correct": true
+                },
+                {
+                    "text": "The applet makes the Java code secure and portable"
+                },
+                {
+                    "text": "Use of exception handling"
+                },
+                {
+                    "text": "Dynamic binding between objects"
+                }
+            ]
+           
+        },
+        {
+            "questionText": "Which of the following is not a Java features?",
+            "options": [{
+                    "text": "Dynamic"
+                },
+                {
+                    "text": "Architecture Neutral"
+                },
+                {
+                    "text": "Use of pointers",
+                    "correct": true
+                },
+                {
+                    "text": "Object-oriented"
+                }
+            ]
+        },
+        {
+            "questionText": "Which is used to find and fix bugs in the Java programs.",
+            "options": [{
+                    "text": "JVM."
+                },
+                {
+                    "text": "JRE"
+                },
+                {
+                    "text": "JDK"
+                },
+                {
+                    "text": "JDB",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": " What is the return type of the hashCode() method in the Object class?",
+            "options": [{
+                    "text": "Object"
+                },
+                {
+                    "text": "int",
+                    "correct": true
+                },
+                {
+                    "text": "long"
+                },
+                {
+                    "text": "void"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following is a valid long literal?",
+            "options": [{
+                    "text": "ABH8097"
+                },
+                {
+                    "text": "L990023"
+                },
+                {
+                    "text": "904423"
+                },
+                {
+                    "text": "0xnf029L",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which is NOT an access modifier?",
+            "options": [{
+                    "text": "private"
+                },
+                {
+                    "text": "protected"
+                },
+                {
+                    "text": "public"
+                },
+                {
+                    "text": "async",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following for loop declaration is not valid?",
+            "options": [{
+                    "text": "for ( int i = 99; i >= 0; i / 9 )",
+                    "correct": true
+                },
+                {
+                    "text": "for ( int i = 7; i <= 77; i += 7 )"
+                },
+                {
+                    "text": "for ( int i = 20; i >= 2; - -i )"
+                },
+                {
+                    "text": "for ( int i = 2; i <= 20; i = 2* i )"
+                }
+            ]
+        },
+        {
+            "questionText": "Which method of the Class.class is used to determine the name of a class represented by the class object as a String?",
+            "options": [{
+                    "text": "getClass()"
+                },
+                {
+                    "text": "intern()"
+                },
+                {
+                    "text": "getName()",
+                    "correct": true
+                },
+                {
+                    "text": "toString()"
+                }
+            ]
+        }
+    ]
+}

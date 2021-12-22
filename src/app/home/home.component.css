@@ -1,0 +1,16 @@
+#buttons{
+    text-align: center;
+}
+#container{
+    width:900px;
+    height:450px;
+}
+#ptext{
+    font-family: "High Tower Text";
+    font-weight: bold;
+    font-size:x-large;
+    text-align: center;
+}
+button{
+    font-size: x-large;
+}

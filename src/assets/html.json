@@ -1,0 +1,140 @@
+
+{
+    "questions": [{
+            "questionText": "HTML stands for -",
+            "options": [{
+                    "text": "HyperText Markup Language",
+                    "correct": true
+                },
+                {
+                    "text": "HighText Machine Language"
+                },
+                {
+                    "text": "HyperText and links Markup Language"
+                },
+                {
+                    "text": "None of these"
+                }
+            ]
+        },
+        {
+            "questionText": "The correct sequence of HTML tags for starting a webpage is -",
+            "options": [{
+                    "text": "Head, Title, HTML, body"
+                },
+                {
+                    "text": "HTML, Body, Title, Head"
+                },
+                {
+                    "text": "HTML, Head, Body, Title"
+                },
+                {
+                    "text": "HTML, Head, Title, Body",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following element is responsible for making the text bold in HTML?",
+            "options": [{
+                    "text": "<br>"
+                },
+                {
+                    "text": "<b>",
+                    "correct": true
+                },
+                {
+                    "text": "<p>"
+                },
+                {
+                    "text": "<i>"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following tag is used for inserting the largest heading in HTML?",
+            "options": [{
+                    "text": "<h6>"
+                },
+                {
+                    "text": "<h1>",
+                    "correct": true
+                },
+                {
+                    "text": "<h4>"
+                },
+                {
+                    "text": "<h2>"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following tag is used to insert a line-break in HTML?",
+            "options": [{
+                    "text": "<br>",
+                    "correct": true
+                },
+                {
+                    "text": "<pre>"
+                },
+                {
+                    "text": "<b>"
+                },
+                {
+                    "text": "<i>"
+                }
+            ]
+        },
+        {
+            "questionText": "How to create an unordered list (a list with the list items in bullets) in HTML?",
+            "options": [{
+                    "text": "<ul>"
+                },
+                {
+                    "text": "<li>"
+                },
+                {
+                    "text": "<i>"
+                },
+                {
+                    "text": "<ol>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which character is used to represent the closing of a tag in HTML?",
+            "options": [{
+                    "text": "back-slash"
+                },
+                {
+                    "text": "forward-slash",
+                    "correct": true
+                },
+                {
+                    "text": "hyphen"
+                },
+                {
+                    "text": "none of these"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following element is responsible for making the text italic in HTML?",
+            "options": [{
+                    "text": "<i>",
+                    "correct": true
+                },
+                {
+                    "text": "<b>"
+                },
+                {
+                    "text": "<br>"
+                },
+                {
+                    "text": "<span>"
+                }
+            ]
+        }
+    ]
+}

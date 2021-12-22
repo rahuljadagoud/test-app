@@ -1,0 +1,140 @@
+
+{
+    "questions": [{
+            "questionText": " Which of the following statement is correct for AngularJS?",
+            "options": [{
+                    "text": "AngularJS is a JavaScript framework",
+                    "correct": true
+                },
+                {
+                    "text": "AngularJS is an HTML framework"
+                },
+                {
+                    "text": "AngularJS is a Java framework"
+                },
+                {
+                    "text": "AngularJS is a SQL framework"
+                }
+            ]
+        },
+        {
+            "questionText": " On which of the Architectural pattern AngularJS is based?",
+            "options": [{
+                    "text": "Observer Pattern"
+                },
+                {
+                    "text": "Decorator pattern"
+                },
+                {
+                    "text": "MVC Architecture pattern"
+                },
+                {
+                    "text": "MVVM Architectural pattern",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "AngularJS is perfect for?",
+            "options": [{
+                    "text": "CPAs"
+                },
+                {
+                    "text": "SPAs",
+                    "correct": true
+                },
+                {
+                    "text": "KPAs."
+                },
+                {
+                    "text": "BPAs"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following is the correct syntax for writing AngularJS expressions?",
+            "options": [{
+                    "text": "(expression)"
+                },
+                {
+                    "text": "{{expression}}",
+                    "correct": true
+                },
+                {
+                    "text": "{{{expression}}}"
+                },
+                {
+                    "text": "[expression]"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following directive is used to bind the application data to the HTML view in AngularJS?",
+            "options": [{
+                    "text": "ng-bind directive",
+                    "correct": true
+                },
+                {
+                    "text": "ng-app directive"
+                },
+                {
+                    "text": "ng-model directive"
+                },
+                {
+                    "text": "ng-init directive"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following statement is true about the lowercase filter?",
+            "options": [{
+                    "text": "Both c and d"
+                },
+                {
+                    "text": "None of the above"
+                },
+                {
+                    "text": "The lowercase filter is a function that takes text as input."
+                },
+                {
+                    "text": "The lowercase filter converts a text to lower case text.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following is an advantage of AngularJS?",
+            "options": [{
+                    "text": "AngularJS code is unit testable."
+                },
+                {
+                    "text": "AngularJS provides reusable components."
+                },
+                {
+                    "text": "AngularJS uses dependency injection and makes use of separation of concerns."
+                },
+                {
+                    "text": "All of the above",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": " Which of the following is used to share data between controller and view in AngularJS?",
+            "options": [{
+                    "text": "using services",
+                    "correct": true
+                },
+                {
+                    "text": "using Model"
+                },
+                {
+                    "text": "using factory"
+                },
+                {
+                    "text": "using $scope"
+                }
+            ]
+        }
+    ]
+}

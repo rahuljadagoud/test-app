@@ -1,0 +1,140 @@
+
+{
+    "questions": [{
+            "questionText": "Which type of JavaScript language is ___",
+            "options": [{
+                    "text": "Object-Based",
+                    "correct": true
+                },
+                {
+                    "text": "Object-Oriented"
+                },
+                {
+                    "text": "Assembly-language"
+                },
+                {
+                    "text": "High level"
+                }
+            ]
+        },
+        {
+            "questionText": "Which one of the following also known as Conditional Expression:",
+            "options": [{
+                    "text": "Alternative to if-else"
+                },
+                {
+                    "text": "Switch statement"
+                },
+                {
+                    "text": "If-then-else statement"
+                },
+                {
+                    "text": "immediate if",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "How can we specify properties and methods for an object in TypeScript?",
+            "options": [{
+                    "text": "Conditional block"
+                },
+                {
+                    "text": "block that combines a number of statements into a single compound statement",
+                    "correct": true
+                },
+                {
+                    "text": "both conditional block and a single statement"
+                },
+                {
+                    "text": "block that contains a single statement"
+                }
+            ]
+        },
+        {
+            "questionText": "When interpreter encounters an empty statements, what it will do:",
+            "options": [{
+                    "text": "Shows a warning"
+                },
+                {
+                    "text": "Ignores the statements",
+                    "correct": true
+                },
+                {
+                    "text": "Throws an error"
+                },
+                {
+                    "text": "Prompts to complete the statement"
+                }
+            ]
+        },
+        {
+            "questionText": "The function and  var are known as:",
+            "options": [{
+                    "text": "Declaration statements",
+                    "correct": true
+                },
+                {
+                    "text": "keywords"
+                },
+                {
+                    "text": "Data types"
+                },
+                {
+                    "text": "prototypes"
+                }
+            ]
+        },
+        {
+            "questionText": "Which is NOT an access modifier?",
+            "options": [{
+                    "text": "private"
+                },
+                {
+                    "text": "protected"
+                },
+                {
+                    "text": "public"
+                },
+                {
+                    "text": "async",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Arrays in JavaScript are defined by which of the following statements?",
+            "options": [{
+                    "text": "It is an ordered list of objects"
+                },
+                {
+                    "text": " It is an ordered list of values",
+                    "correct": true
+                },
+                {
+                    "text": "It is an ordered list of string"
+                },
+                {
+                    "text": "It is an ordered list of function"
+                }
+            ]
+        },
+        {
+            "questionText": " Which of the following is not javascript data types?",
+            "options": [{
+                    "text": "Null type"
+                },
+                {
+                    "text": "Undefined type"
+                },
+                {
+                    "text": "Number type"
+                },
+                {
+                    "text": "All of the above",
+                    "correct":true
+                }
+            ]
+        }
+    ]
+}

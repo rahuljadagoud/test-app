@@ -1,0 +1,48 @@
+.card{
+    max-width:"1000px";
+    margin:0 auto;
+    padding:10px;
+}
+li{
+    list-style-type:none;
+    cursor:pointer;
+    margin:10px 0;
+}
+li .card:hover{
+    border:2px solid orange;
+}
+ol{
+    padding:0;
+}
+#score{
+    background-color: black;
+    color:white;
+    width:500px;
+    height:350px;
+    text-align: justify;
+    border:none;
+}
+#scoretext{
+    margin-left:120px;
+    margin-top:20px;
+    font-weight: bold;
+    font-size:large;
+    font-family:Lucida Bright;
+    color:black;
+   
+}
+.question,.options{
+    font-family: "High Tower Text";
+    font-size:30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#leftbt{
+    margin-top: -350px;
+    margin-left: -100px;
+}
+#rightbt{
+    margin-top: -350px;
+    margin-right:-100px;
+}
