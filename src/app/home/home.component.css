@@ -1,5 +1,6 @@
 #buttons{
-    text-align: center;
+    text-align:justify;
+    
 }
 #container{
     width:900px;
@@ -9,7 +10,7 @@
     font-family: "High Tower Text";
     font-weight: bold;
     font-size:x-large;
-    text-align: center;
+    text-align: justify;
 }
 button{
     font-size: x-large;
